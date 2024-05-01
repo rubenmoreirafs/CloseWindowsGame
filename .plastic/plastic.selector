@@ -1,0 +1,4 @@
+repository "FastWindowsGame@rubenmoreira55@cloud"
+  path "/"
+    br "/main"
+    co "/main"
